@@ -1,0 +1,12 @@
+[{
+  "relation": [
+    "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bananascan.classifier",
+    "sha256_cert_fingerprints": [
+      "84:21:25:EA:97:1D:99:98:51:6B:EB:3A:DB:BE:54:72:F7:04:82:EF:03:E7:1D:22:FE:FE:5D:51:33:6D:3E:B7"
+    ]
+  }
+}]
